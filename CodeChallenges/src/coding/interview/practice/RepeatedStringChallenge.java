@@ -7,8 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import coding.inerview.ThreadsOnly.Thread1;
-import coding.inerview.ThreadsOnly.Thread2;
+import coding.inerview.ThreadsOnly.ProducerThread;
+import coding.inerview.ThreadsOnly.ConsumerThread;
 
 public class RepeatedStringChallenge {
 
